@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="biegeOrange">#f8e8c9</color>
+    <color name="blue">#336789</color>
+    <color name="lightgreen">#e8f5c4</color>
+    <color name="sage">#d2deb1</color>
+    <color name="darkgreen">#4d543a</color>
+    <color name="ecru">#f5f4c4</color>
+    <color name="registerPage">#D0D8B9</color>
+    <color name="maroon">#8a4539</color>
+    <color name="ongoing">#8ba152</color>
+    <color name="settingsGrey">#e8ebe9</color>
+
+</resources>

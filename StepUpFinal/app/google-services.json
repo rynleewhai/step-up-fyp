@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104784197526",
+    "project_id": "stepupfinal-954be",
+    "storage_bucket": "stepupfinal-954be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104784197526:android:0833915d231800df6d4fb7",
+        "android_client_info": {
+          "package_name": "com.fyp.stepupfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiNsVFDdL8mFY5uMsk9auNLliOH5scM7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
